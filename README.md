@@ -10,6 +10,7 @@ NEWS Lens AI is a web app for classifying news text. Enter a headline, paragraph
 - Category information and model metrics
 - Browser-based analysis history
 - FastAPI backend and React + TypeScript frontend
+- 40 categories of news analyze
 
 ## Tech stack
 
